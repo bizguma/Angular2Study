@@ -1,0 +1,10 @@
+# Ignore Files
+**/*.log
+**/*.js
+**/*.map
+
+# Ignore Directories
+node_modules/
+
+
+
